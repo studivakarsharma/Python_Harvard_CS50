@@ -1,0 +1,12 @@
+
+  IN starting we usually works on CLI(command line Interface)  Further we will develop it for GUI(Graphical User Interface)
+  
+  when passing an arguement in function it usualy takes input in two way:-
+  1. Positioned Parameteres
+  2. Named parameters
+
+  example print(" Hello,","divakar",sep="???")
+  
+  
+
+
